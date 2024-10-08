@@ -5,4 +5,4 @@
 
 **Scripts:** they calculate the relevant statistics and plot graphs for each continuum. 
 
-**Stimuli:** you can find a modified version of the script I used for creating the stimuli on my other GitHub: pandabar/praat 
+**Stimuli:** you can find a modified version of the script I used for creating the stimuli on my other repository: pandabar/praat 
